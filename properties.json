@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://accolade.demo.amelia.com/Amelia/ui/Accolade/chat?domainCode=accolade",
-  "chatUrl": "https://accolade.demo.amelia.com/Amelia/ui/rate/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/healthmemberservices/chat?domainCode=healthmemberservices",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/healthmemberservices/chat?domainCode=healthmemberservices",
   "clientUrl": "https://www.virginpulse.com/"
 }
